@@ -72,4 +72,5 @@ body.modal-open {
 
 
 .reveal-modal-bg{position:fixed;}
-.reveal-modal{position:fixed;}
+.reveal-modal{position:fixed;
+  overflow-y:auto;}

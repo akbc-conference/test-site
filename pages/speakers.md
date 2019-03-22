@@ -17,7 +17,7 @@ header:
 <div class="small-8 large-6 columns" markdown="1">
 <a href="#{{ speaker.name }}"></a>
 
-### [{{ speaker.name }} {{ speaker.surname }}]({{ speaker.social }})
+### [{{ speaker.name }} {{ speaker.surname }}]({{ speaker.social[0].link }})
 #### {{ speaker.title }}
 <br />
 _{{ speaker.talktitle }}_ <br />
