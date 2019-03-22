@@ -3,7 +3,7 @@ title: Organization
 layout: page-fullwidth
 permalink: /organization
 header:
-    image_fullwidth: "amherst.jpg"
+    image_fullwidth: "amherst_sky.jpg"
 ---
 
 General Chair, [Andrew McCallum](https://people.cs.umass.edu/~mccallum/), University of Massachusetts Amherst, USA

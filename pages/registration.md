@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: Registration
 permalink: registration/
 header:
-    image_fullwidth: "amherst.jpg"
+    image_fullwidth: "amherst_sky.jpg"
 ---
 
 Please note that hotel booking is not part of the AKBC conference registration process. Your registration confirmation email will include a reference group code for access to reserved hotel rooms for AKBC attendees, which you should then book separately. Note that hotel rooms may fill up and are only held until 19 April, so make sure to book yours as early as possible. The tentative registration timeline is:

@@ -4,7 +4,7 @@ layout: page-fullwidth
 order: 0
 permalink: /cfp
 header:
-    image_fullwidth: "amherst.jpg"
+    image_fullwidth: "amherst_sky.jpg"
 ---
 
 ### Submission Requirements

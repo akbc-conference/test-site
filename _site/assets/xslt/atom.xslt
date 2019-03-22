@@ -278,7 +278,7 @@
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="http://localhost:4000/test-site/" title="AKBC 2019 – ">
-				<img src="http://localhost:4000/test-site/assets/img/logo.png" alt="AKBC 2019 – " width="100px">
+				<img src="http://localhost:4000/test-site/assets/img/logo.png" alt="AKBC 2019 – " width="25%">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->

@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: Sponsors
 permalink: sponsors/
 header:
-    image_fullwidth: "amherst.jpg"
+    image_fullwidth: "amherst_sky.jpg"
 ---
 
 AKBC 2019 gratefully recognizes our generous sponsors!

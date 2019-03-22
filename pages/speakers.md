@@ -3,7 +3,7 @@ title: Speakers
 layout: page-fullwidth
 permalink: /speakers
 header:
-    image_fullwidth: "amherst.jpg"
+    image_fullwidth: "amherst_sky.jpg"
 ---
 
 {% for speaker in site.data.speakers %}

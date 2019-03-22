@@ -3,7 +3,7 @@ title: Venue
 layout: page-fullwidth
 permalink: /venue/
 header:
-    image_fullwidth: "amherst.jpg"
+    image_fullwidth: "amherst_sky.jpg"
 ---
 <div class="row">
 <div class="large-2 columns"> <br /> </div>

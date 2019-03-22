@@ -3,7 +3,7 @@ title: Travel
 layout: page-fullwidth
 permalink: /travel
 header:
-    image_fullwidth: "amherst.jpg"
+    image_fullwidth: "amherst_sky.jpg"
 ---
 
 Located in scenic Western Massachusetts, Amherst is conveniently accessible by air, train, bus and car.
