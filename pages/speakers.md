@@ -9,22 +9,22 @@ header:
 {% for speaker in site.data.speakers %}
 
 <div class="row">
-<div class="large-2 columns"> <br /> </div>
+<div class="large-1 columns"> <br /> </div>
 <div class="small-4 large-3 columns">
   <img src="{{ site.baseurl }}/images/people/{{ speaker.thumbnailUrl}}"  alt="{{ speaker.name }} {{ speaker.surname }}" style="width: 300px" />
 </div>
 
-<div class="small-8 large-4 columns" markdown="1">
+<div class="small-8 large-6 columns" markdown="1">
 <a href="#{{ speaker.name }}"></a>
 
 ### [{{ speaker.name }} {{ speaker.surname }}](speaker.social)
 #### {{ speaker.title }}
 <br />
 _{{ speaker.talktitle }}_ <br />
-<a href="" data-reveal-id="{{ speaker.name }}Modal" class="radius button"> Abstract and Bio </a> &nbsp;
+<a href="" data-reveal-id="{{ speaker.name }}Modal"> Abstract and Bio </a> &nbsp;
 </div>
 
-<div class="large-2 columns"></div>
+<div class="large-1 columns"></div>
 </div>
 
 
@@ -38,10 +38,10 @@ _{{ speaker.talktitle }}_ <br />
 <!-- Modal -->
 <div id="{{ speaker.name }}Modal" class="reveal-modal" data-reveal aria-labelledby="{{ speaker.name }}Modal" aria-hidden="true" role="dialog">
   <h2 id="modalTitle">{{ speaker.name }} {{ speaker.surname }}</h2>
-  <br /> <br /> <br />
+  <br /> <br />
   <h6> Abstract </h6>
   <i>{{ speaker.talktitle }}</i>
-  <br />
+  <br /> <br />
   {{ speaker.abstract }}
   <br /> <br /> <br />
   <h6> Bio </h6>
