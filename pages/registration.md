@@ -9,7 +9,7 @@ header:
 Please note that hotel booking is not part of the AKBC conference registration process. Your registration confirmation email will include a reference group code for access to reserved hotel rooms for AKBC attendees, which you should then book separately. Note that hotel rooms may fill up and are only held until 19 April, so make sure to book yours as early as possible. The tentative registration timeline is:
 
 * March 7th, 2019: Author/Speaker Conference+Hotel Registration opens
-* March 14th, 2019: Public Registration opens
+* March 14th, 2019: Public Registration opens, [Register Now!](https://umass.irisregistration.com/Home/Site?code=AKBC)
 * April 5th: Early Registration Deadline
 * April 21st: Hotel rooms no longer held
 
