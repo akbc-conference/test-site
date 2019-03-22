@@ -1,7 +1,7 @@
 ---
 title: Workshops
 layout: page-fullwidth
-permalink: /workshops
+permalink: /workshops/
 header:
     image_fullwidth: "amherst_sky.jpg"
 ---

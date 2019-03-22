@@ -2,7 +2,7 @@
 title: Call for Papers
 layout: page-fullwidth
 order: 0
-permalink: /cfp
+permalink: /cfp/
 header:
     image_fullwidth: "amherst_sky.jpg"
 ---

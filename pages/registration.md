@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: Registration
-permalink: registration/
+permalink: /registration/
 header:
     image_fullwidth: "amherst_sky.jpg"
 ---

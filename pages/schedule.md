@@ -1,7 +1,7 @@
 ---
 title: Schedule
 layout: page-fullwidth
-permalink: /schedule
+permalink: /schedule/
 header:
     image_fullwidth: "amherst_sky.jpg"
 ---

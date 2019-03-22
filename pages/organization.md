@@ -1,7 +1,7 @@
 ---
 title: Organization
 layout: page-fullwidth
-permalink: /organization
+permalink: /organization/
 header:
     image_fullwidth: "amherst_sky.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: Sponsors
-permalink: sponsors/
+permalink: /sponsors/
 header:
     image_fullwidth: "amherst_sky.jpg"
 ---

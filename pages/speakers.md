@@ -1,7 +1,7 @@
 ---
 title: Speakers
 layout: page-fullwidth
-permalink: /speakers
+permalink: /speakers/
 header:
     image_fullwidth: "amherst_sky.jpg"
 ---

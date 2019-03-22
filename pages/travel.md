@@ -1,7 +1,7 @@
 ---
 title: Travel
 layout: page-fullwidth
-permalink: /travel
+permalink: /travel/
 header:
     image_fullwidth: "amherst_sky.jpg"
 ---
