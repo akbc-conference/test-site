@@ -64,3 +64,8 @@ figure3
     text-align:center;
     padding:0px;
 }
+
+body.modal-open {
+    overflow: visible;
+    position: relative
+}

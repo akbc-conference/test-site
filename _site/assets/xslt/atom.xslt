@@ -184,7 +184,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/test-site">Program</a>
+                <a  href="http://localhost:4000/test-site/speakers/">Program</a>
 
                   <ul class="dropdown">
                     
@@ -225,7 +225,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/test-site">Information for participants</a>
+                <a  href="http://localhost:4000/test-site/venue/">Information for participants</a>
 
                   <ul class="dropdown">
                     

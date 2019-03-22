@@ -3,6 +3,7 @@
   side: left
 
 - title: "Program"
+  url: "/speakers/"
   side: left
   dropdown:
   - title: "Speakers"
@@ -15,6 +16,7 @@
     url: "/workshops/"
 
 - title: "Information for participants"
+  url: "/venue/"
   side: left
   dropdown:
   - title: "Venue"

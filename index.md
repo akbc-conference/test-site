@@ -21,15 +21,12 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC is beco
 
 <a name="dates"></a> 
 ## Key Dates
-**November 16, 2018, Friday: Conference paper submissions due (Midnight PST)**
-
-January 11, Friday: Workshop topics announced
-
-February 15, 2019, Friday: Conference notification
-
-May 20-21, 2019, Monday-Tuesday: Conference, UMass Amherst
-
-May 22, 2019, Wednesday: Workshops, UMass Amherst
+<br />
+**November 16, 2018, Friday: Conference paper submissions due (Midnight PST)**<br />
+January 11, Friday: Workshop topics announced<br />
+February 15, 2019, Friday: Conference notification<br />
+May 20-21, 2019, Monday-Tuesday: Conference, UMass Amherst<br />
+May 22, 2019, Wednesday: Workshops, UMass Amherst<br />
 
 ## Previous Workshops
 

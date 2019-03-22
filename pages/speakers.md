@@ -15,15 +15,25 @@ header:
 </div>
 
 <div class="small-8 large-4 columns" markdown="1">
+<a href="#{{ speaker.name }}"></a>
+
 ### [{{ speaker.name }} {{ speaker.surname }}](speaker.social)
 #### {{ speaker.title }}
 <br />
 _{{ speaker.talktitle }}_ <br />
-<a href="#" data-reveal-id="{{ speaker.name }}Modal"> Abstract and Bio </a> &nbsp;
+<a href="" data-reveal-id="{{ speaker.name }}Modal" class="radius button"> Abstract and Bio </a> &nbsp;
 </div>
 
 <div class="large-2 columns"></div>
 </div>
+
+
+
+{% endfor %}
+
+
+{% for speaker in site.data.speakers %}
+
 
 <!-- Modal -->
 <div id="{{ speaker.name }}Modal" class="reveal-modal" data-reveal aria-labelledby="{{ speaker.name }}Modal" aria-hidden="true" role="dialog">

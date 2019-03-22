@@ -41,7 +41,7 @@ Paul Groth <br />
 Hannaneh Hajishirzi <br />
 Roman Klinger
 </div>
-<div class="small-6 large-4 columns" markdown="1">
+<div class="small-6 large-4 columns">
 Max Nickel <br />
 Jay Pujara <br />
 Siva Reddy <br />
