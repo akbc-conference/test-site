@@ -6,42 +6,39 @@ header:
     image_fullwidth: "amherst.jpg"
 ---
 
-<div class="grid-x">
-  <div class="cell small-6">6 cells</div>
-  <div class="cell small-6">6 cells</div>
+{% for speaker in site.data.speakers %}
+
+<div class="row">
+<div class="large-2 columns"> <br /> </div>
+<div class="small-4 large-3 columns">
+  <img src="{{ site.baseurl }}/images/people/{{ speaker.thumbnailUrl}}"  alt="{{ speaker.name }} {{ speaker.surname }}" style="width: 300px" />
 </div>
 
-<div class="card-group">
-<div class="card">
-<img class="card-img-top" src="https://img.webnots.com/2017/04/Bootstrap-Card-Image.png" alt="Flex Card Image 1">
-<div class="card-body">
-<h4 class="card-title">Card Title</h4>
-<p class="card-text">Here is a longer description of the card and the height will be auto aligned with flex box.</p>
-</div>
-<div class="card-footer">
-<small class="text-muted">Here is a footer</small>
-</div>
-</div>
-<div class="card">
-<img class="card-img-top" src="https://img.webnots.com/2017/04/Bootstrap-Card-Image.png" alt="Flex Card Image 2">
-<div class="card-body">
-<h4 class="card-title">Card Title</h4>
-<p class="card-text">Here is a shorter description of the card.</p>
-</div>
-<div class="card-footer">
-<small class="text-muted">Here is a footer</small>
-</div>
-</div>
-<div class="card">
-<img class="card-img-top" src="https://img.webnots.com/2017/04/Bootstrap-Card-Image.png" alt="Flex Card Image 3">
-<div class="card-body">
-<h4 class="card-title">Card Title</h4>
-<p class="card-text">Here is a very long description of the card and the height will be auto aligned with flex box. You can enter longer text to check the cards are aligned perfectly with same height without any gap.</p>
-</div>
-<div class="card-footer">
-<small class="text-muted">Here is a footer</small>
-</div>
-</div>
+<div class="small-8 large-4 columns" markdown="1">
+### [{{ speaker.name }} {{ speaker.surname }}](speaker.social)
+#### {{ speaker.title }}
+<br />
+_{{ speaker.talktitle }}_ <br />
+<a href="#" data-reveal-id="{{ speaker.name }}Modal"> Abstract and Bio </a> &nbsp;
 </div>
 
-{% include speakers.html %}
+<div class="large-2 columns"></div>
+</div>
+
+<!-- Modal -->
+<div id="{{ speaker.name }}Modal" class="reveal-modal" data-reveal aria-labelledby="{{ speaker.name }}Modal" aria-hidden="true" role="dialog">
+  <h2 id="modalTitle">{{ speaker.name }} {{ speaker.surname }}</h2>
+  <br /> <br /> <br />
+  <h6> Abstract </h6>
+  <i>{{ speaker.talktitle }}</i>
+  <br />
+  {{ speaker.abstract }}
+  <br /> <br /> <br />
+  <h6> Bio </h6>
+  {{ speaker.bio }}
+  <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+</div>
+
+
+{% endfor %}
+

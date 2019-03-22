@@ -316,7 +316,7 @@ function FastClick(a,b){"use strict";function c(a,b){return function(){return a.
   window.Foundation = {
     name : 'Foundation',
 
-    version : '5.5.0',
+    version : '6.0.6',
 
     media_queries : {
       'small'       : S('.foundation-mq-small').css('font-family').replace(/^[\/\\'"]+|(;\s?})+|[\/\\'"]+$/g, ''),
