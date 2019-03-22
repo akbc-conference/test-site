@@ -29,37 +29,7 @@
 		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
 	</noscript>
 
-
-	<!-- Search Engine Optimization -->
-	<meta name="description" content="">
-	
-	
-	
-	
-	
-	
-	<link rel="canonical" href="http://localhost:4000/test-site/assets/xslt/rss.xslt">
-
-
-	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="">
-	<meta property="og:url" content="http://localhost:4000/test-site/assets/xslt/rss.xslt">
-	<meta property="og:locale" content="en_EN">
-	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="AKBC 2019">
-	
-	
-
-
-	
-
-	<link type="text/plain" rel="author" href="http://localhost:4000/test-site/humans.txt">
-
-	
-
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/test-site/assets/img/">
-
+  <link rel="icon" href="/test-site/favicon.ico">
 
 	
 
@@ -79,6 +49,12 @@
     <section class="top-bar-section">
 
       <ul class="right">
+        
+
+              
+
+          
+          
         
 
               
@@ -158,6 +134,21 @@
       </ul>
 
       <ul class="left">
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/test-site/">Home</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
         
 
               

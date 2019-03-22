@@ -26,15 +26,17 @@ $body-bg: 			#fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-//$ci-1: #334D5C;		// dark turquoise
 $ci-1: #a72525;		// Lighter UMass maroon
-//$ci-2: #45B29D;		// turquoise
 $ci-2: #FAFAFA;		// light grey
+$ci-6: #811c1c;   // UMass maroon
+
+$maroon: $ci-6;
+$umgrey: $ci-2;
+
+
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
-//$ci-6: #A1D044;     // green
-$ci-6: #811c1c;     // UMass maroon
 
 
 
@@ -86,12 +88,12 @@ $topbar-link-color-hover: #FFF;
 $topbar-link-color-active: #FFF;
 $topbar-link-color-active-hover: #FFF;
 
-$topbar-dropdown-label-color: $ci-2;
+$topbar-dropdown-label-color: $maroon;
 $topbar-dropdown-link-bg-hover: $ci-6;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
-$topbar-link-bg-hover: $ci-6;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active: $maroon; // Active Navigation Link
+$topbar-link-bg-hover: $maroon;
+$topbar-link-bg-active-hover: $maroon;
 
 
 $topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
@@ -110,7 +112,7 @@ $topbar-menu-icon-color-toggled: $ci-6;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg: $grey-8;
+$footer-bg: $grey-11;
 $footer-color: #fff;
 $footer-link-color: $ci-6;
 
