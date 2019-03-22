@@ -73,4 +73,6 @@ body.modal-open {
 
 .reveal-modal-bg{position:fixed;}
 .reveal-modal{position:fixed;
+  max-height:initial; //reset any max-height set by foundation defaults
+  height:600px; //replace value with your desired height
   overflow-y:auto;}
