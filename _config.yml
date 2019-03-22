@@ -13,7 +13,7 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 # See > authors.yml
 #author: phlow
 
-baseurl: ''
+baseurl: '/test-site'
 
 
 # Logo size is 600x80 pixels
