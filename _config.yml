@@ -1,0 +1,63 @@
+title: 'AKBC 2019'
+
+# The slogan describes your website and is used on homepage in <title> and other important places
+#slogan: 'A Flexible Theme for Jekyll'
+
+# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
+#description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
+
+# The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
+credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+
+# Main author of the website
+# See > authors.yml
+#author: phlow
+
+baseurl: ''
+
+
+# Logo size is 600x80 pixels
+logo: "logo.png"
+
+# Plugins
+plugins:
+    - jekyll-asciidoc
+    - jekyll-gist
+    - jekyll-paginate
+
+
+
+# Theme works best with Kramdown (using the table of contents function)
+markdown: kramdown
+permalink: /:categories/:title/
+highlight: rouge
+excerpt_separator: "<!--more-->"
+include: ['.htaccess']
+# Exclude these files from your production _site
+exclude:
+    - .sass-cache
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - INSTALL.md
+
+
+# The language setting is used in /includes/header.html for html-settings
+language: 'en'
+
+
+# Used › default.html front-matter and compress.html
+# Options › http://jch.penibelst.de
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  profile: false
+  ignore:
+    envs: [development]
+
+
+sass:
+    sass_dir : _sass
+    style    : :compressed

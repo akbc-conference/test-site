@@ -1,0 +1,43 @@
+- title: Call for papers
+  url: "/cfp/"
+  side: left
+
+- title: "Program"
+  side: left
+  dropdown:
+  - title: "Speakers"
+    url: "/speakers/"
+  - title: "Workshops"
+    url: "/workshops/"
+  - title: "Schedule"
+    url: "/schedule/"
+  - title: "Accepted papers"
+    url: "/workshops/"
+
+- title: "Information for participants"
+  side: left
+  dropdown:
+  - title: "Venue"
+    url: "/venue/"
+  - title: "Visa information"
+    url: "/registration/#visa"
+  - title: "Travel"
+    url: "/travel/"
+  
+- title: Sponsors
+  url: "/sponsors/"
+  side: right
+
+- title: Dates
+  url: "/#dates"
+  side: right
+
+- title: Registration
+  url: "/registration/"
+  side: right
+
+- title: Organization
+  url: "/organization/"
+  side: right
+
+
