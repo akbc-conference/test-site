@@ -27,7 +27,7 @@ $body-bg: 			#fdfdfd;
 ------------------------------------------------------------------- */
 
 $ci-1: #a72525;		// Lighter UMass maroon
-$ci-2: #FAFAFA;		// light grey
+$ci-2: #D7D7D7;		// light grey
 $ci-6: #811c1c;   // UMass maroon
 
 $maroon: $ci-6;
@@ -77,11 +77,13 @@ $grey-16: #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color: $body-bg;
-$topbar-bg: $topbar-bg-color;
+$dark-grey: $grey-16;
+$light-grey: $grey-2;
 
+$topbar-bg-color: $light-grey;
+$topbar-bg: $light-grey;
 
-$topbar-dropdown-toggle-color: $grey-16;
+$topbar-dropdown-toggle-color: $dark-grey;
 
 $topbar-link-color: #000;
 $topbar-link-color-hover: #FFF;
@@ -89,14 +91,14 @@ $topbar-link-color-active: #FFF;
 $topbar-link-color-active-hover: #FFF;
 
 $topbar-dropdown-label-color: $maroon;
-$topbar-dropdown-link-bg-hover: $ci-6;
+$topbar-dropdown-link-bg-hover: $maroon;
 
 $topbar-link-bg-active: $maroon; // Active Navigation Link
 $topbar-link-bg-hover: $maroon;
 $topbar-link-bg-active-hover: $maroon;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
+$topbar-dropdown-bg: $grey-2; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
 $topbar-dropdown-link-bg: $ci-2;
 
