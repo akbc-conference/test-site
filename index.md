@@ -19,6 +19,13 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC is beco
 * We want to set our own culture, including reviewing practices, and meeting format. We have fond memories of the first AKBC 2010 in Grenoble: a two-day meeting that included an afternoon hike in the Alps with much great scientific discussion.
 * Why now?  Growing interest across many areas.  Disconnect among multiple relevant communities.  Growing industry and government interest.
 
+## Latest news
+
+**14 Mar 2019** : Registration opens
+25 Feb 2019 : Accepted papers announced
+11 Jan 2019 : Workshops announced
+
+
 <a name="dates"></a> 
 ## Key Dates
 <br />
