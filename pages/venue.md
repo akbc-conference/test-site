@@ -79,17 +79,17 @@ Amherst Massachusetts 01003 <br>
 
   <figure4>
       <img src="{{ site.baseurl }}/images/activities/dining.png" alt="Dining" width="150" height="150">
-      <figcaption><a href="https://www.gonomad.com/71165-eat-pioneer-valley-massachusetts">Dining</a></figcaption>                    
+      <figcaption><br /><a href="https://www.gonomad.com/71165-eat-pioneer-valley-massachusetts">Dining</a></figcaption>                    
   </figure4>
 
   <figure4>
       <img src="{{ site.baseurl }}/images/activities/emily_dickinson.png" alt="Emily Dickinson" width="150" height="150">
-      <figcaption><a href="https://www.emilydickinsonmuseum.org/">Emily Dickinson Musuem</a> </figcaption>
+      <figcaption><br /><a href="https://www.emilydickinsonmuseum.org/">Emily Dickinson Musuem</a> </figcaption>
   </figure4>
 
   <figure4>
       <img src="{{ site.baseurl }}/images/activities/eric_carle.png" alt="Eric Carle" height="120">
-      <figcaption><a href="https://www.carlemuseum.org/">Eric Carle Musuem</a></figcaption>               
+      <figcaption><br /><a href="https://www.carlemuseum.org/">Eric Carle Musuem</a></figcaption>               
   </figure4>
 
   </div>
