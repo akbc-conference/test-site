@@ -2,10 +2,6 @@
   url: "/"
   side: left
 
-- title: Call for papers
-  url: "/cfp/"
-  side: left
-
 - title: "Program"
   url: "/speakers/"
   side: left
@@ -18,6 +14,8 @@
     url: "/schedule/"
   - title: "Accepted papers"
     url: "https://openreview.net/group?id=AKBC.ws/2019/Conference"
+  - title: Call for papers
+    url: "/cfp/"
 
 - title: "Information for participants"
   url: "/venue/"
